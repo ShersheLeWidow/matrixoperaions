@@ -29,7 +29,7 @@ def multiply_matrices(matrix1, matrix2):
             row.append(sum)
         result.append(row)
     return result
-
+# All g
 # function to transpose a matrix
 def transpose_matrix(matrix):
     result = []
