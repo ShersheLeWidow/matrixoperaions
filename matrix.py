@@ -16,7 +16,7 @@ def subtract_matrices(matrix1, matrix2):
             row.append(matrix1[i][j] - matrix2[i][j])
         result.append(row)
     return result
-
+#ssd
 # function to multiply two matrices
 def multiply_matrices(matrix1, matrix2):
     result = []
